@@ -1,2 +1,2 @@
 # LeonApp
-Leon's app
+Leon's app is the place to be.
